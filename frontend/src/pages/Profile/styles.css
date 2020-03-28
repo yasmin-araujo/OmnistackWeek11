@@ -29,13 +29,13 @@
 	height: 60px;
 	width: 60px;
 	border-radius: 4px;
-	border: 1px slateblueolid #dcdce6;
+	border: 1px solid #dcdce6;
 	background: transparent;
 	margin-left: 16px;
 }
 
 .profile-container header button:hover {
-	border-color: #999;
+	border-color: #BBB;
 }
 
 .profile-container h1 {
@@ -61,7 +61,8 @@
 	position: absolute;
 	right: 24px;
 	top: 24px;
-	border: 0;
+    border: 0;
+    background-color: transparent;
 }
 
 .profile-container ul li button:hover {
